@@ -1,59 +1,73 @@
 # Hi, I'm Haribabu 👋
 
-I'm a **Java Developer** specializing in building enterprise-level applications with **Spring Boot**, **Microservices Architecture**, and **React** for frontend development. I love automating workflows with **Jenkins** and securing applications using **Spring Security**.
+I'm a passionate developer with expertise in building enterprise-level applications using **Java**, **Spring Boot**, and **React**. I have hands-on experience in **microservices architecture**, CI/CD with **Jenkins**, and cloud technologies like **AWS**.
 
 ---
 
-### 🚀 Technologies & Tools
-- **Backend**: Java, Spring Boot, Microservices, Spring Security, JPA/Hibernate
-- **Frontend**: React, JavaScript, HTML, CSS
-- **DevOps**: Jenkins, Docker, Kubernetes
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud**: AWS, Azure
-- **Version Control**: Git, GitHub
-- **Build Tools**: Maven, Gradle
+### 🌐 Languages
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### ⚙️ Frameworks
+- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
+- ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+- ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white)
+- ![MQTT](https://img.shields.io/badge/MQTT-00A8E1?style=flat&logo=mosquitto&logoColor=white)
+- ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+- ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+
+### 🗄️ Databases
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- ![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
+
+### 🔧 Others
+- ![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=flat&logo=docker&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+- ![Nexus](https://img.shields.io/badge/Nexus-4B0082?style=flat&logo=nexus&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+### 📊 Streaming Platforms
+- Spring Boot
+- React.js
+- Spring Security
+- Hibernate
+- JUnit
+- MQTT
+- Kafka
+- Spark
 
 ---
 
 ### 📂 My Projects
+#### Microservices Application
+- Developed a comprehensive microservices application leveraging Spring Boot, Spring Security, and Docker.
+- Implemented CI/CD using Jenkins and Kubernetes for automated deployments.
 
-#### 1. **Loan Management System** (Spring Boot + React)
-- A full-stack **loan management system** where users can apply for loans, and admins can manage loan approvals and repayments.
-- **Features**: Loan application, interest calculation, payment schedule, admin dashboard.
-- **Technologies**: Spring Boot, React, MySQL, Spring Security.
-
-[Repository Link](#) | [Live Demo](#)
-
-#### 2. **Microservices Architecture for E-Commerce** (Spring Boot + Spring Cloud)
-- Built a **microservices-based** architecture for an e-commerce platform, focusing on scalability and resilience.
-- **Features**: Product catalog service, payment service, inventory service, and user service, all connected via **Spring Cloud**.
-- **Technologies**: Spring Boot, Spring Cloud, Docker, Kubernetes, Jenkins for CI/CD.
-
-[Repository Link](#)
-
-#### 3. **Jenkins Pipeline for Automated CI/CD** (Jenkins + Docker)
-- Developed a fully automated **CI/CD pipeline** using Jenkins, integrated with Docker to automate the building, testing, and deployment of a microservice-based application.
-- **Technologies**: Jenkins, Docker, GitHub Actions, Kubernetes.
-
-[Repository Link](#)
+#### Proof of Concepts (POCs)
+- **Log Demo POC**: Created a logging service integrated with various microservices.
+- **Config Server POC**: Built a configuration server to manage application properties across multiple services.
 
 ---
 
 ### 🌱 What I'm Learning
-Currently exploring **cloud-native** solutions, focusing on **AWS** and **Kubernetes**, and expanding my knowledge in **event-driven microservices**.
+Currently diving deeper into **cloud-native solutions** and exploring **event-driven architecture** using Kafka and Spring Cloud.
 
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn**: [http://www.linkedin.com/in/haribabu1998](#)
-- **Email**: haribabu9533@example.com
+- **LinkedIn**: [Haribabu's LinkedIn](http://www.linkedin.com/in/haribabu1998)
+- **Email**: [haribabu9533@gmail.com](mailto:haribabu9533@gmail.com)
 
 ---
-### Technologies Used:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-
-![](https://komarev.com/ghpvc/?username=haribabu&color=blue)
+![Haribabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=haribabu&show_icons=true&theme=radical)
