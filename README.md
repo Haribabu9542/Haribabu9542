@@ -51,6 +51,3 @@ Currently diving deeper into **cloud-native solutions** and exploring **event-dr
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/haribabu1998)
 - **Email**: [haribabu9533@gmail.com](mailto:haribabu9533@gmail.com)
 
----
-
-![Haribabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=haribabu&show_icons=true&theme=radical)
